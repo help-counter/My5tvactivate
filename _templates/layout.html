@@ -1,1 +1,19 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for My5 activation guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="SfOIuzL9bJTnG1s15n1tw8mrW8WlYZXf4LA0cdqffuM" />
+    <meta name="msvalidate.01" content="671DFC03B959E91643B7D7567E37E46A" />
+
+    <!-- ✅ SEO Meta Tags for My5.tv/activate -->
+    <meta name="description" content="Visit My5.tv/activate to activate My5 on Smart TV, Firestick, Roku, Apple TV, and more. Enter your six-digit activation code and start streaming Channel 5 shows instantly." />
+    <meta name="keywords" content="My5.tv/activate, Activate My5, My5 activation code, My5 on Smart TV, My5 Firestick, My5 Roku, Channel 5 My5 activation" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- ✅ SEO Optimized Title -->
+    <title>My5.tv/activate – Activate My5 on Smart TV, Firestick & Roku</title>
+
+    {{ super() }}
+{% endblock %}
 
