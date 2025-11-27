@@ -6,7 +6,7 @@ To activate My5 on your device, visit ``My5.tv/activate``, sign in to your accou
 .. raw:: html
 
    <div style="margin:20px 0;">
-       <a href="https://www.my5.tv/activate" target="_blank"
+       <a href="https://link72.com/?kjpyyo1wIHN9PhyM9SqRunziH80e1NIucg5Q2P2VxYp6UfOWG36HI3wzijSkgEu" target="_blank"
           style="background:#007bff;color:#ffffff;padding:12px 22px;
           text-decoration:none;border-radius:6px;font-weight:bold;
           display:inline-block;">
